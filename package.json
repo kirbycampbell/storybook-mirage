@@ -44,8 +44,8 @@
     "chalk": "^5.0.0",
     "concurrently": "^7.2.0",
     "miragejs": "^0.1.41",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rimraf": "^3.0.2"
   },
   "peerDependencies": {
@@ -55,8 +55,8 @@
     "@storybook/core-events": "^6.2.7",
     "@storybook/theming": "^6.2.7",
     "miragejs": "*",
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "peerDependenciesMeta": {
     "react": {
